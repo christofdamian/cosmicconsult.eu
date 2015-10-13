@@ -1,0 +1,126 @@
+BODY {
+	MARGIN: 0px
+}
+TABLE {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A {
+	COLOR: #00457f; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #00457f; TEXT-DECORATION: none
+}
+A:unknown {
+	COLOR: #00457f; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #00457f; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #00457f; TEXT-DECORATION: none
+}
+FORM {
+	DISPLAY: inline
+}
+f {
+	DISPLAY: inline
+}
+INPUT.search {
+	FONT-SIZE: 11px; WIDTH: 140px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+INPUT.box-login {
+	FONT-SIZE: 10px; WIDTH: 120px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+SELECT.box-login {
+	FONT-SIZE: 11px; WIDTH: 120px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.navi-ressort {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #000000; FONT-FAMILY: Times, Verdana, Arial, Helvetica, sans-serif
+}
+A.navi-ressort-active {
+	FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #a96a2c; FONT-FAMILY: Times, Verdana, Arial, Helvetica, sans-serif
+}
+A.navi-rubrik {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.navi-rubrik-active {
+	FONT-SIZE: 11px; COLOR: #a96a2c; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+UL {
+	LIST-STYLE-IMAGE: url(/GLOB_PICS/P3/NAVI/bullet.gif)
+}
+A.headline {
+	FONT-SIZE: 18px; COLOR: #760000; FONT-FAMILY: Times New Roman, Verdana, Arial, Helvetica, sans-serif
+}
+A.more {
+	FONT-SIZE: 11px; COLOR: #00457f; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.more:hover {
+	TEXT-DECORATION: underline
+}
+A.more-small {
+	FONT-SIZE: 10px; COLOR: #00457f; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.more-small:hover {
+	TEXT-DECORATION: underline
+}
+A.cc-banner {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.headline {
+	FONT-SIZE: 18px; COLOR: #760000; FONT-FAMILY: Times New Roman, Verdana, Arial, Helvetica, sans-serif
+}
+.overhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #8e8e8e; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.cyberclub-skip {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #8e8e8e; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.cyberclub-box-text {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #8e8e8e; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.mehr-themen-header {
+	FONT-WEIGHT: bolder; FONT-SIZE: 12px; COLOR: #cc9966; FONT-FAMILY: Times New Roman, Verdana, Arial, Helvetica, sans-serif
+}
+A.mehr-themen-link {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.right-box-header {
+	FONT-WEIGHT: bolder; FONT-SIZE: 16px; TEXT-TRANSFORM: uppercase; COLOR: #ffffff; FONT-FAMILY: Times New Roman, Verdana, Arial, Helvetica, sans-serif
+}
+.right-box-blue-link {
+	FONT-SIZE: 11px; COLOR: #00457f; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.top5-box-link {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.box-login {
+	FONT-WEIGHT: bolder; FONT-SIZE: 11px; COLOR: #760000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bgc-black {
+	BACKGROUND-COLOR: #000000
+}
+.bgc-white {
+	BACKGROUND-COLOR: #ffffff
+}
+.bgc-gold {
+	BACKGROUND-COLOR: #cc9966
+}
+.bgc-darkgrey {
+	BACKGROUND-COLOR: #888888
+}
+.bgc-grey {
+	BACKGROUND-COLOR: #aab3b9
+}
+.bgc-lightgrey {
+	BACKGROUND-COLOR: #f2e5d7
+}
+.bgc-cyber-galerie {
+	BACKGROUND-COLOR: #f3e6d6
+}
+.bgc-frameborder {
+	BACKGROUND-COLOR: #c1c1c1
+}

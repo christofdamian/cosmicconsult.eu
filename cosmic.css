@@ -1,0 +1,55 @@
+body {
+color : white; 
+background:url(grafik/cosmic rim c.jpg) black;
+background-repeat : no-repeat;
+
+font-family : arial; 
+font-size : 20px; 
+} 
+a:link {
+color : deepskyblue;
+} 
+a:visited {
+color : violet; 
+} 
+a:hover {
+color : red; 
+} 
+P {
+font-family : arial,sans-serif; 
+font-size : 18px; 
+} 
+ul {
+font-family : arial,sans-serif; 
+} 
+.menue {
+position : absolute; 
+top : 200px; 
+width : 7em; 
+text-align : left; 
+} 
+.text {
+position : absolute; 
+left : 200px; 
+top : 160px; 
+right : 1em; 
+right : 1em; 
+text-align : left; 
+font-size : 20px; 
+} 
+
+h2  {
+font-family : arial;
+font-size : 30px;
+font-style: italic;
+color : deepskyblue;
+
+}
+
+h3  {
+font-family : arial;
+font-size : 20px;
+font-style: italic;
+color : deepskyblue;
+
+}

@@ -1,0 +1,38 @@
+body {
+background-color : #000000;
+color : #ffffff; 
+background-image:url(grafik/EurCos.jpg);
+background-repeat : no-repeat; 
+font-family : arial; 
+font-size : 12px; 
+} 
+a:link {
+color : deepskyblue; 
+} 
+a:visited {
+color : violet; 
+} 
+a:hover {
+color : red; 
+} 
+P {
+font-family : arial,sans-serif; 
+} 
+ul {
+font-family : arial,sans-serif; 
+} 
+.menue {
+position : absolute; 
+top : 180px; 
+width : 8em; 
+text-align : left;
+font-size : 20px; 
+} 
+.text {
+position : absolute; 
+left : 200px; 
+top : 160px; 
+right : 2em; 
+text-align : left; 
+font-size : 20px; 
+} 
